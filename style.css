@@ -1,0 +1,72 @@
+*{transition: all 0.5s ease;}
+
+.jumbotron#header-jb
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.jumbotron#header-jb h3
+{
+    color: lightgray;
+}
+
+.jumbotron#header-jb a:hover
+{
+    color: white;
+}
+
+body
+{
+    background-color: dimgray;
+}
+
+.thumbnail .caption
+{
+    background-color: black;
+    color: white;
+    border-color: transparent;
+}
+
+.thumbnail
+{
+    background-color: black;
+    border-color: transparent;
+}
+
+.caption
+{
+    background-color: black;
+    border-color: transparent;
+}
+
+.btns
+{
+    text-align: center;
+}
+
+.btns button
+{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+.row
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+footer
+{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
